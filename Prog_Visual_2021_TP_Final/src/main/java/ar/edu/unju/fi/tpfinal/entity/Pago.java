@@ -80,3 +80,4 @@ public class Pago {
 				+ pag_fecha_pag + ", cliente=" + cliente + "]";
 	}
 }
+
